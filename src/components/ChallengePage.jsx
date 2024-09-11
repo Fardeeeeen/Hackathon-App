@@ -147,7 +147,7 @@ function ChallengePage({ challenges, deleteHackathon }) {
                     boxShadow: '0 2px 4px rgba(1, 0, 0, 1.1)',
                     width: '100%',
                     position: 'absolute',
-                    bottom: '535px',
+                    bottom: '450px',
                     left: '0'
                 }} />
               
