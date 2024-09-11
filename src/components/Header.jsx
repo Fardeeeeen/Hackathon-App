@@ -53,9 +53,9 @@ function Header() {
         <motion.div
           style={{
             position: 'absolute',
-            left: '250px',
+            left: '210px',
             height: '23%',
-            top: '95px',
+            top: '85px',
             width: '10px',
             backgroundColor: '#FFCE5C',
           }}
@@ -72,7 +72,7 @@ function Header() {
           animate={{ x: 0, opacity: 1 }}    
           transition={{ duration: 1 }}        
         >
-          <Typography variant="h2" sx={{ color: '#FFF', fontWeight: 600, fontSize: '48px', mb: '16px', lineHeight: '56px', textAlign: 'start', width: '75%' }}>
+          <Typography variant="h2" sx={{ color: '#FFF', fontWeight: 600, fontSize: '48px', mb: '16px', lineHeight: '56px', textAlign: 'start', width: '83%' }}>
             Accelerate Innovation with Global AI Challenges
           </Typography>
           <Typography variant="body1" sx={{ color: '#FFF', fontSize: '18px', mb: '32px', textAlign: 'start', width: '65%', lineHeight: '28px' }}>
